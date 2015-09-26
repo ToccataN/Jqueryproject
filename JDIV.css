@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+}
+
+.button{
+	position:relative;
+	
+}
+button{
+	margin-left:400px;
+    margin-top:50px;
+    width:20%;
+
+}
+.container{
+	margin:100px auto;
+    width:800px;
+    overflow:auto;
+
+}
+.div1{
+
+	float:left;
+    border:1px solid red;
+	
+	background-color: #000;
+	
+}
+.div2 {
+
+	clear:both;
+
+	
+	
+	
+}
